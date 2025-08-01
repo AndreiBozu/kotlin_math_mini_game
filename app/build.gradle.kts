@@ -56,8 +56,8 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.appcompat)
     implementation(libs.support.annotations)
-    implementation("androidx.navigation:navigation-fragment-ktx:2.9.0")
-    implementation("androidx.navigation:navigation-ui-ktx:2.9.0")
+    implementation("androidx.navigation:navigation-fragment-ktx:2.9.3")
+    implementation("androidx.navigation:navigation-ui-ktx:2.9.3")
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
